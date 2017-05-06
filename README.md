@@ -16,9 +16,8 @@ To see the code:
 
 and open
 
-http://localhost:8000/source/level0.elm
-http://localhost:8000/source/level1.elm
 http://localhost:8000/source/level2.elm
 http://localhost:8000/source/buttons.elm
+http://localhost:8000/source/product.elm
 
 The imported module can also be execute independently.
